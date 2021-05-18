@@ -6,4 +6,4 @@ Data Visualization,
 Converting the Text into Vector using Natural Language Processing, 
 Random Over Sampling to resample the data i.e to convert the data into balanced data, 
 thereby predicting the accuracy using multiple NLP techniques and machine learning algorithms. 
-Finally, I got the accuracy of 0.987 by using the GridSearchCV(). 
+Finally, I got the accuracy of 0.987 by using the GridSearchCV().
